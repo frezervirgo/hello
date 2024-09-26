@@ -1,3 +1,3 @@
 # Introduction
 ## subtitle - hello there
-just a test redme.
+just a test readme.
